@@ -4,17 +4,40 @@ body{
 }
 
 .cabecalho{
-     background-color: #3532B4;
-     color: blueviolet;
+     background-color: #9392d1;
+     color: rgb(169, 102, 231);
      display: flex;
      justify-content: space-around;
      align-items: center;
      padding: 24px 0 ;
 }
+
 .cabecalho-imagem{
 width: 20%
 }
+
 .cabecalho-lista-item{
      display: inline-block;
      margin: 0 16px;
+     font-size: 24px;
+
+}
+.escola-imagem{
+     width: 25%;
+}
+
+.escola{
+         background-image: -moz-linear-gradient(#8887c4,);
+       color: white;
+       display:flex
+       justify-content: center;
+       align-items: center;
+       padding: 24px 0;
+
+}
+.escola-div-div-conteudo{
+     width:-35%;
+}
+.escola-titulo{
+   padding: 24px 0 ;  
 }
