@@ -45,3 +45,9 @@ display: block;
 .lista-menu_titulo{
     color: var(--laranja)
 }
+.lista-menu_link{
+    background: var( --roxo-degrade)
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+background-clip: text;
+}
